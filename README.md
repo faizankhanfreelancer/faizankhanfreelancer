@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=faizankhanfreelancer&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
+
 
 </div>
 
@@ -67,7 +67,7 @@ Image classification and object detection (OpenCV, YOLOv8), plus text processing
 ## 03 &nbsp;/&nbsp; Skills and Technologies
 
 <div align="center">
-  <img src="./assets/focus-meter.svg" alt="Illustrative focus map: core focus, applied, currently learning" width="100%"/>
+ 
 </div>
 
 <br/>
